@@ -1,8 +1,8 @@
 # NetBeans 8 
 
 
-Para instalar el IDE NetBeans en su versión 8 necesitamos descargar el instalador desde su web ya que esta fuera de los repositorios del sistema operativo que contiene las nuevas versiones, podremos hacerlo desde este Enlace NetBeans.
-También es necesario tener instalado Java esta documentación la podremos visualizar en el siguiente enlace en caso de ser necesario Java en Ubuntu, para comprobar que esta instalando y funcionando usaremos el comando 
+Para instalar el IDE NetBeans en su versión 8 necesitamos descargar el instalador desde su web ya que esta fuera de los repositorios del sistema operativo que contiene las nuevas versiones, podremos hacerlo desde este [Enlace NetBeans](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html).
+También es necesario tener instalado Java esta documentación la podremos visualizar en el siguiente [Java en ubuntu](https://github.com/airampac/jdk/blob/main/README.md) en caso de ser necesario Java en Ubuntu, para comprobar que esta instalando y funcionando usaremos el sigueinte comando desde un terminal.
 
 ``
 java -version
