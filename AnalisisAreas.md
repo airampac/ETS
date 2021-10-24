@@ -24,7 +24,7 @@ Dentro de la clase realizaremos los métodos para resolver el problema y devolve
 
 Realizaremos un método dentro de cada clase que realice el calculo matemático solicitado por el usuario.
 Como ejemplo pondremos el Triangulo realizando la siguiente operación:
-El usuario inserta los datos de b (base del triangulo) y h  (altura) multiplicamos entre si, y dividimos  el resultado por las caras del triangulo(en este caso 2).
+El usuario inserta los datos de b (base del triangulo) y h  (altura) multiplicamos entre si, y dividimos  el resultado por las caras del triangulo(en este caso 2), devolviendo al usuario el resultado final de la operación.
 					
           
                                                    Triangulo= (b*h)/2
