@@ -1,5 +1,16 @@
+# Instalacion de Git en Linux
 
-# Instalación de Git.
+
+## indice
+[Instalacion de Git basica](#id1) 
+
+[Instalacion de Git desde la fuente](#id2)
+
+[Configuracion de Git](#id3)
+
+
+
+# Instalación de Git basica.<a name="id1"></a>
 
 Si tenemos una versión de Linux reciente o actualizada es probable que ya dispongamos de una versión de git instalada, podemos comprobarlo con el comando:
 git –version
@@ -31,7 +42,7 @@ Realizamos de nuevo la comprobación de que tenemos instalado git y en que versi
 ![1-3](https://user-images.githubusercontent.com/61906112/139680477-1215a64c-29a3-4073-a443-2c368b76f3f4.PNG)
 
 
-# Instalación de Git desde la fuente
+# Instalación de Git desde la fuente <a name="id2"></a>
 
 
 Este proceso de instalación se realiza cuando queremos utilizar la versión mas reciente de Git o si necesitamos instalar una versión concreta.
@@ -105,7 +116,7 @@ Sustituimos el proceso de shell para que utilice la versión de Git que instalam
 ![9-1](https://user-images.githubusercontent.com/61906112/139681837-4dfe208d-4c8e-486f-ab72-d97ea2c51b97.PNG)
 
 
-## Configuración de Git
+## Configuración de Git <a name="id3"></a>
 
 Procedemos ahora a configurar nuestro Git con los datos necesarios para poder enviar y recibir nuestros repositorios, eso se hace con los siguientes comandos, entre las “ ” añadiremos nuestro correo y usuario de Git para poder acceder a la documentación.
 
