@@ -75,7 +75,7 @@ Git es un sistema de control de versiones ideado por linus torvalds
        git add .
        git commit -m "Añadido capítulo 3."
        git log
-       git diff <codigo hash de la primera version>..HEAD
+       git diff HEAD~3..HEAD
 ```    
 
 ![4](https://user-images.githubusercontent.com/61906112/140651507-4c709e78-8daa-42c9-99c0-878be8a07912.PNG)
